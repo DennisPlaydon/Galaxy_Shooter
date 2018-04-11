@@ -13,3 +13,4 @@ I became much more familiar with Unity. The course equiped me with many skills f
 
 I enjoyed creating the game. I think creating more games in the future will help me and only develop my skills futher
 
+Currently this is just built for Windows
